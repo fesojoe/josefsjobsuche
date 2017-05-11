@@ -257,7 +257,11 @@ p {
   color: #fb866a;
 }
 /* Extra small devices (phones, less than 768px) */
+<<<<<<< HEAD
 /*@media (max-width: 540px) {
+=======
+@media (max-width: 767px) {
+>>>>>>> parent of 443752f... taken out responsiveness
   .sidebar-wrapper {
     position: static;
     width: inherit;
@@ -276,7 +280,11 @@ p {
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
+<<<<<<< HEAD
 /*@media (min-width: 720px) {
+=======
+@media (min-width: 992px) {
+>>>>>>> parent of 443752f... taken out responsiveness
   .skillset .level-title {
     display: inline-block;
     float: left;
