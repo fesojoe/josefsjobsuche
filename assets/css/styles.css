@@ -257,7 +257,7 @@ p {
   color: #fb866a;
 }
 /* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
+@media (max-width: 540px) {
   .sidebar-wrapper {
     position: static;
     width: inherit;
@@ -276,7 +276,7 @@ p {
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
+@media (min-width: 720px) {
   .skillset .level-title {
     display: inline-block;
     float: left;
